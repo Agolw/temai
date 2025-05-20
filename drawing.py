@@ -874,5 +874,5 @@ def draw_energe():
     print(f'初始capability={c}, adoption转化率为{r_a}%,经adoption转化capability为{c_a},utility转化价值比率为{r_u}%, 经价值转化评估体系评估capability价值转化值为{c_u}')
 
 if __name__ == '__main__':
-    # draw_mendian_new()
+    draw_mendian_new()
     draw_energe()
